@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    height: 100px;
+    
+    align-items: center;
+    
+}
+
+.main1{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    padding: 10px;
+}
+.main2{
+    display: flex;
+    /* padding: 10px; */
+    
+}
+.main3{
+    margin-right: 5px;
+    font-weight: 600;
+}
